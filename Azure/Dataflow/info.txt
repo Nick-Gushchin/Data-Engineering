@@ -1,0 +1,6 @@
+selected resource name:		TransformRawData
+selected resource type:		dataflow
+factory name:			nicked
+factory location:		eastus
+subscription id:		5a36a79e-267d-454f-ab92-0b9f9894cffc
+time of download (UTC):		Thu, 17 Oct 2024 16:53:28 GMT
